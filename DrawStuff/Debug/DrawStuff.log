@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jepettit\documents\visual studio 2015\projects\drawstuff\drawstuff\kf\kf_time.h(55): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+  DrawStuff.vcxproj -> C:\Users\jepettit\documents\visual studio 2015\Projects\DrawStuff\Debug\DrawStuff.exe
+  DrawStuff.vcxproj -> C:\Users\jepettit\documents\visual studio 2015\Projects\DrawStuff\Debug\DrawStuff.pdb (Full PDB)
