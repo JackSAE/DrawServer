@@ -146,9 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bitmap_class.cpp" />
+    <ClCompile Include="MapInfo.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bitmap_class.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="kf\kf.h" />
     <ClInclude Include="kf\kf_algorithms.h" />
@@ -166,6 +169,8 @@
     <ClInclude Include="kf\kf_vector2.h" />
     <ClInclude Include="kf\kf_vector3.h" />
     <ClInclude Include="kf\kf_vector4.h" />
+    <ClInclude Include="MapInfo.h" />
+    <ClInclude Include="udt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
